@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kaushikthecoder6200
+- ### Hola, I'm kaushik raj!👋
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 you can reach me on kaushikrag123@gmail.com
 
 <!---
