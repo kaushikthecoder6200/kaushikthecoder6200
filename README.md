@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 📫 you can reach me on kaushikrag123@gmail.com
+- 📫 you can reach me on Email-kaushikrag123@gmail.com, LinkedIn-https://www.linkedin.com/mwlite/in/kaushik-raj-070372191
 
 <!---
 kaushikthecoder6200/kaushikthecoder6200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
