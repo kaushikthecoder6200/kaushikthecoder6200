@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 😎 Fun fact -I love to ride a motorcycle 
+- 😎 Fun fact : I love to ride a motorcycle 
 - 📫 you can reach me on Email-kaushikrag123@gmail.com, LinkedIn-https://www.linkedin.com/mwlite/in/kaushik-raj-070372191
 
 <!---
